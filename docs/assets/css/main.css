@@ -9,6 +9,10 @@ a:link {
 	color: #00b359;
 }
 
+a:hover {
+	color: #00cc66;
+}
+
 .home-heading {
 	font-weight: bold;
 	font-size: 20px;
@@ -20,19 +24,23 @@ a:link {
 }
 
 .project-title {
+	width: 50px;
+	float: left;
 	color: #00b359;
 	font-weight: bold;
 }
 
 .project-content {
-	margin-left: 20px;
+	margin-left: 60px;
 }
 
 .time {
+	margin-left: 60px;
 	font-style: italic;
 }
 
 .attribution {
+	margin-left: 60px;
 	font-style: italic;
 	font-weight: bold;
 }
@@ -43,4 +51,8 @@ a:link {
 
 .small-spacer {
 	height: 15px;
+}
+
+.tiny-spacer {
+	height: 10px;
 }
