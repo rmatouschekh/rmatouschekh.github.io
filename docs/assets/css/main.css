@@ -5,9 +5,8 @@ hr {
 	background-color: #00b359;
 }
 
-.page-link {
+a:link {
 	color: #00b359;
-	font-style: italic;
 }
 
 .home-heading {
