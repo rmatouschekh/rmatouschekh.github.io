@@ -24,6 +24,10 @@ a:link {
 	font-weight: bold;
 }
 
+.project-content {
+	margin-left: 20px;
+}
+
 .time {
 	font-style: italic;
 }
