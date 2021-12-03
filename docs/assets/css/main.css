@@ -24,23 +24,21 @@ a:hover {
 }
 
 .project-title {
-	width: 50px;
-	float: left;
 	color: #00b359;
 	font-weight: bold;
 }
 
 .project-content {
-	margin-left: 60px;
+	margin-left: 20px;
 }
 
 .time {
-	margin-left: 60px;
+	margin-left: 20px;
 	font-style: italic;
 }
 
 .attribution {
-	margin-left: 60px;
+	margin-left: 20px;
 	font-style: italic;
 	font-weight: bold;
 }
