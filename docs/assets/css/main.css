@@ -5,7 +5,7 @@ hr {
 	background-color: #00b359;
 }
 
-a {
+.link {
 	font-style: italic;
 	color: #00b359;
 }
@@ -27,4 +27,12 @@ a {
 
 .time {
 	font-style: italic;
+}
+
+.spacer {
+	height: 10px;
+}
+
+.small-spacer {
+	height: 5px;
 }
