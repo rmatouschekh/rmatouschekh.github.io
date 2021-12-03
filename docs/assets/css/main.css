@@ -1,16 +1,16 @@
 hr {
 	height: 5px;
 	border-width: 0;
-	color: #00b359;
-	background-color: #00b359;
+	color: #008040;
+	background-color: #008040;
 }
 
 a:link {
-	color: #00bdbd;
+	color: #00b359;
 }
 
 a:hover {
-	color: #00e6e6;
+	color: #00e673;
 	text-decoration: none;
 }
 
@@ -25,7 +25,7 @@ a:hover {
 }
 
 .project-title {
-	color: #00b359;
+	color: #008040;
 	font-weight: bold;
 }
 

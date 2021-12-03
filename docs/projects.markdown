@@ -4,9 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 <link rel="stylesheet" href="/assets/css/main.css">
-
-<div>Here's some of the projects I've worked on! </div>
-<div class="spacer"></div>
 <div class="project-heading">Research Projects</div> 
 <div class="small-spacer"></div>
 <div class="project-title">Tools for Tracking Police Misconduct Data</div>
