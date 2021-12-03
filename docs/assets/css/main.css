@@ -6,11 +6,11 @@ hr {
 }
 
 a:link {
-	color: #00b359;
+	color: #00b3b3;
 }
 
 a:hover {
-	color: #00e673;
+	color: #00e6e6;
 	text-decoration: none;
 }
 
@@ -36,10 +36,6 @@ a:hover {
 .time {
 	margin-left: 20px;
 	font-style: italic;
-}
-
-.people {
-	margin-left: 20px;
 }
 
 .spacer {
