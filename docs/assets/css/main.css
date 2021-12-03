@@ -10,7 +10,8 @@ a:link {
 }
 
 a:hover {
-	color: #00cc66;
+	color: #00e673;
+	text-decoration: none;
 }
 
 .home-heading {
@@ -37,10 +38,8 @@ a:hover {
 	font-style: italic;
 }
 
-.attribution {
+.people {
 	margin-left: 20px;
-	font-style: italic;
-	font-weight: bold;
 }
 
 .spacer {
