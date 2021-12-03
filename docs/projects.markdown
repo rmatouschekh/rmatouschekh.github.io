@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-<link rel="stylesheet" href="{{ "/assets/css/main.css, " | prepend: site.baseurl }}">
+<link rel="stylesheet" href="/assets/css/main.css">
 
 <div>Here's some of the projects I've worked on! </div>
 
