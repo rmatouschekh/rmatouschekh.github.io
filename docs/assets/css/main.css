@@ -1,4 +1,30 @@
+hr {
+	height: 5px;
+	border-width: 0;
+	color: #00b359;
+	background-color: #00b359;
+}
+
+a {
+	font-style: italic;
+	color: #00b359;
+}
+
+.home-heading {
+	font-weight: bold;
+	font-size: 20px;
+}
+
 .project-heading {
 	font-size: 25px;
 	font-weight: bold;
+}
+
+.project-title {
+	color: #00b359;
+	font-weight: bold;
+}
+
+.time {
+	font-style: italic;
 }
