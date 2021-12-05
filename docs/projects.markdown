@@ -10,13 +10,13 @@ permalink: /projects/
 <div class="project-content">Advised by Professor <a href="https://schasins.com">Sarah Chasins</a> and Professor <a href="https://people.eecs.berkeley.edu/~adityagp/">Aditya Parameswaran</a> @ UC Berkeley</div>
 <div class ="time">Summer 2021 – present</div>
 <div class="tiny-spacer"></div>
-<div class="project-content">Tools for Tracking Police Misconduct Data aims to create a database to help the National Association of Criminal Defense Lawyers track police officer misconduct. As part of this project, I iteratively designed MongoDB database queries to find officer misconduct cases, wrote code to output the results of those queries to a Postgres database, and created a website hosted with Flask to allow users to validate those results and then output the results to the database. I have also worked on extracting information from difficult-to-process PDFs.</div>
+<div class="project-content">Tools for Tracking Police Misconduct Data works on creating a database to help the <a href="https://www.nacdl.org">National Association of Criminal Defense Lawyers</a> track police officer misconduct. As part of this project, I iteratively designed MongoDB database queries to find officer misconduct cases, wrote code to output the results of those queries to a Postgres database, and created a website hosted with Flask to allow users to validate those results and then output the results to the database. I have also worked on extracting information from difficult-to-process PDFs. During the summer, I also participated in the <a href="https://plait-lab.org">PLAIT Lab</a> reading group and social events.</div>
 <div class="small-spacer"></div>
 <div class="project-title">Word Clouds in the Wild</div>
 <div class="project-content">Advised by Professor <a href="https://cs.carleton.edu/faculty/ealexander/">Eric Alexander</a> @ Carleton College</div>
 <div class ="time">Summer 2020 – present</div>
 <div class="tiny-spacer"></div>
-<div class="project-content">This project aims to discover how word clouds are being used with the eventual goal of designing guidelines for creating visually pleasing but effective visualizations. Along with Professor Alexander and another undergraduate researcher, I used grounded theory, a method of qualitative data analysis that involves hypothesis formation through data collection, to study word cloud usage in digital humanities academia and journalism. I also analyzed the collected data. We are currently writing up these results for publication.</div>
+<div class="project-content">This project aims to discover how word clouds are being used with the eventual goal of designing guidelines for creating visually pleasing but effective word clouds. Along with Professor Alexander and another undergraduate researcher, I used grounded theory, a method of qualitative data analysis that involves hypothesis formation through data collection, to study word cloud usage in digital humanities academia and journalism. I also analyzed the collected data. We are currently writing up these results for publication.</div>
 <br>
 
 <div class="project-heading">Senior Thesis Projects</div> 
@@ -51,7 +51,7 @@ permalink: /projects/
 <div class ="time">Winter 2021</div>
 <div class="project-content"><a href="https://observablehq.com/d/29cdc0a5b39cd2a9">Link to project</a></div>
 <div class="tiny-spacer"></div>
-<div class="project-content">I designed this digital humanities project as the final for Shakespeare II. I hand annotated Shakespeare’s <i>As You Like It</i> for who talked to whom and then processed the data using a Python script. I then created two interactive visualizations in the computational notebook Observable that allowed users to examine who a character talked to throughout the play and compare two characters talking to each other respectively. I also made an interactive version of my annotations so users could validate my work.</div>
+<div class="project-content">I created this digital humanities project for Shakespeare II. I hand annotated Shakespeare’s <i>As You Like It</i> for who talked to whom and processed the data using a Python script. I then created two interactive visualizations in the computational notebook Observable. One allowed users to examine who a character talked to throughout the play and the other showed how two characters talked to each other. I also made an interactive version of my annotations so users could validate my work.</div>
 <div class="small-spacer"></div>
 <div class="project-title">Biodiversity in National Parks Visualization</div>
 <div class="project-content">Created in partnership</div>
