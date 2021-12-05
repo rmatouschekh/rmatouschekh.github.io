@@ -9,6 +9,10 @@ a:link {
 	color: #00b359;
 }
 
+a:visited {
+	color: #00b359;
+}
+
 a:hover {
 	color: #00e673;
 	text-decoration: none;
