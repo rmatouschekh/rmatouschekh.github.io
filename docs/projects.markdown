@@ -38,6 +38,7 @@ permalink: /projects/
 <div class="small-spacer"></div>
 <div class="project-title">Using Agglomerative Clustering to Group PDFs by Format</div>
 <div class ="time">Fall 2021</div>
+<div class="project-content"><a href="https://github.com/rmatouschekh/agglomerative-clustering">Link to project</a></div>
 <div class="tiny-spacer"></div>
 <div class="project-content">As the final project for my Artificial Intelligence course I wrote an algorithm that uses agglomerative clustering to group PDFs by format. The inputs to the algorithm were abstracted images of the first page of each PDF.</div>
 <div class="small-spacer"></div>
@@ -63,5 +64,6 @@ permalink: /projects/
 <div class="project-title">Seattle Library Explorer</div>
 <div class="project-content">Created in partnership</div>
 <div class ="time">Fall 2020</div>
+<div class="project-content"><a href="https://github.com/rmatouschekh/seattle-library-explorer">Link to project</a></div>
 <div class="tiny-spacer"></div>
 <div class="project-content">The Seattle Library Explorer was a full stack project created for my Software Design class. My partner and I used data from kaggle on book checkouts in all the Seattle library branches to populate a database we created with Postgres. We also wrote a website hosted with Flask that uses psycopg2 to query the database.</div>
