@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 <link rel="stylesheet" href="/assets/css/main.css">
-<div class="project-heading">Research Projects</div> 
+<div class="project-heading">Research Projects</div>
 <div class="small-spacer"></div>
 <div class="project-title">Tools for Tracking Police Misconduct Data</div>
 <div class="project-content">Advised by Professor <a href="https://schasins.com">Sarah Chasins</a> and Professor <a href="https://people.eecs.berkeley.edu/~adityagp/">Aditya Parameswaran</a> @ UC Berkeley</div>
@@ -19,7 +19,7 @@ permalink: /projects/
 <div class="project-content">This project aims to discover how word clouds are being used with the eventual goal of designing guidelines for creating visually pleasing but effective word clouds. Along with Professor Alexander and another undergraduate researcher, I used grounded theory, a method of qualitative data analysis that involves hypothesis formation through data collection, to study word cloud usage in digital humanities academia and journalism. I also analyzed the collected data. We are currently writing up these results for publication.</div>
 <br>
 
-<div class="project-heading">Senior Thesis Projects</div> 
+<div class="project-heading">Senior Thesis Projects</div>
 <div class="small-spacer"></div>
 <div class="project-title">Practicum 2.0</div>
 <div class="project-content">Advised by Professor <a href="https://cs.carleton.edu/faculty/awb/">Aaron Bauer</a> @ Carleton College</div>
@@ -27,11 +27,13 @@ permalink: /projects/
 <div class="tiny-spacer"></div>
 <div class="project-content">This will be the senior thesis project for my Computer Science major. As part of a group of CS majors, I will extend existing software called Practicum that teaches introductory computer science concepts. I will be designing and implementing new features for the software and testing the usability of those features. A more detailed description of the project can be found <a href="https://cs.carleton.edu/cs_comps/2122/practicum2/index.php">here.</a></div>
 <div class="small-spacer"></div>
-<div class="project-title">Using Visualization to Analyze Women's Impact in Shakespeare's Comedies</div>
+<div class="project-title">"Let every work weigh heavy of her worth": Examining How Women Enact Power in Shakespeare’s Comedies through Interactive Speech Pattern Visualizations</div>
 <div class="project-content">Advised by Professor <a href="https://www.carleton.edu/directory/gshuffel/">George Shuffelton</a> @ Carleton College</div>
+<div class="project-content"><a href="https://observablehq.com/@hicker/let-every-word-weigh-heavy-of-her-worth">Link to Project</a></div>
+<div class ="time">Received the grade of Distinction</div>
 <div class ="time">Fall 2022 – Winter 2022</div>
 <div class="tiny-spacer"></div>
-<div class="project-content">This will be the senior thesis project for my English major. I will analyze how women enact power in Shakespeare’s comedies by visualizing their speech patterns. There will be two views, one that compares speech patterns across all plays and one that can display individual information about each play. The visualizations will take into account how many people are addressed, how many words are spoken, and the timeline of the play. I will also write an essay analyzing the visualizations.</div>
+<div class="project-content">This was my senior thesis project for the English major. I analyzed how women enact power in Shakespeare’s comedies by visualizing their speech patterns. I hand-annotated each comedy for who talks to whom, designed and coded visualizations to present the speech pattern data, and then wrote an essay analyzing the visualizations and contextualizing my work within previous literary and DH analysis of Shakespeare.</div>
 <br>
 
 <div class="project-heading">Class Projects</div>
