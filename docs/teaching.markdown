@@ -10,13 +10,13 @@ permalink: /teaching/
 <div class="project-content">Introduction to Computer Science (1 term), Data Structures (4 terms), Math of Computer Science (2 terms)</div>
 <div class ="time">Spring 2020 – present</div>
 <div class="tiny-spacer"></div>
-<div class="project-content">As a TA, I attend every class and assist during labs, host two review sessions a week for which I write worksheets and answer keys, and hold individual meetings with students. This Spring term will be my seventh as a TA.</div>
+<div class="project-content">As an undergraduate TA, I attended every class and assisted during labs, hosted two review sessions a week for which I wrote worksheets and answer keys, and held individual meetings with students. In total, I worked as an undergraduate TA for 7 terms, from my sophomore spring onwards.</div>
 <div class="small-spacer"></div>
 <div class="project-title">Program Assistant</div>
 <div class="project-content"><a href="https://www.carleton.edu/ocs/computing/">History of Computing Study Abroad</a> with Professor <a href="https://cs.carleton.edu/faculty/dlibenno/">David Liben-Nowell</a></div>
 <div class ="time">Summer 2022</div>
 <div class="tiny-spacer"></div>
-<div class="project-content">As a Program Assistant, I will be providing logistical and academic support to the students on the study abroad program, advising them on academics and through the experience of living abroad. </div>
+<div class="project-content">As a Program Assistant, I provided logistical and academic support to the students on the study abroad program. </div>
 <div class="small-spacer"></div>
 <div class="project-title">Residential and Program Assistant</div>
 <div class="project-content">Computer Science Camps @ UT Austin</div>

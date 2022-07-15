@@ -34,6 +34,9 @@ permalink: /projects/
 <div class ="time">Fall 2022 – Winter 2022</div>
 <div class="tiny-spacer"></div>
 <div class="project-content">This was my senior thesis project for the English major. In it, I analyzed how women enact power in Shakespeare’s comedies by visualizing their speech patterns. I hand-annotated each Shakespearean comedy for who talks to whom, designed and coded visualizations to present the speech pattern data, and then wrote an essay analyzing the visualizations and contextualizing my work within previous literary and DH analysis of Shakespeare. The results of this work have been accepted for publication through the <a href="https://quadrama.github.io/blog/2022/03/14/comp-drama-analysis-workshop">QuaDramA Workshop</a>.</div>
+<br>
+
+<div class="project-heading">Senior Thesis Projects and Portfolios</div>
 <div class="small-spacer"></div>
 <div class="project-title">Digital Arts and Humanities Minor Capstone Portfolio</div>
 <div class="project-content">Advised by Professor <a href="https://www.carleton.edu/directory/amason/">Austin Mason</a> @ Carleton College – <a href="https://hicker.dgah.sites.carleton.edu">Link to Project</a> </div>
