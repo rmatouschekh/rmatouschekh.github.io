@@ -28,7 +28,7 @@ permalink: /projects/
 <div class="project-content">This will be the senior thesis project for my Computer Science major. As part of a group of CS majors, I will extend existing software called Practicum that teaches introductory computer science concepts. I will be designing and implementing new features for the software and testing the usability of those features. A more detailed description of the project can be found <a href="https://cs.carleton.edu/cs_comps/2122/practicum2/index.php">here.</a></div>
 <div class="small-spacer"></div>
 <div class="project-title">"Let every work weigh heavy of her worth": Examining How Women Enact Power in Shakespeare’s Comedies through Interactive Speech Pattern Visualizations</div>
-<div class="project-content">Advised by Professor <a href="https://www.carleton.edu/directory/gshuffel/">George Shuffelton</a> @ Carleton College – <a href="https://observablehq.com/@hicker/let-every-word-weigh-heavy-of-her-worth">Link to Project</a></div>
+<div class="project-content">Advised by Professor <a href="https://www.carleton.edu/directory/gshuffel/">George Shuffelton</a> @ Carleton College – <a href="https://observablehq.com/@hicker/let-every-word-weigh-heavy-of-her-worth">Link to Project</a> </div>
 <div class ="time">Fall 2022 – Winter 2022</div>
 <div class="tiny-spacer"></div>
 <div class="project-content">This was my senior thesis project for the English major. I analyzed how women enact power in Shakespeare’s comedies by visualizing their speech patterns. I hand-annotated each comedy for who talks to whom, designed and coded visualizations to present the speech pattern data, and then wrote an essay analyzing the visualizations and contextualizing my work within previous literary and DH analysis of Shakespeare.</div>
