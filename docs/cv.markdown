@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: pdf
 title: CV
 permalink: /cv/
 ---
-<link rel="stylesheet" href="/assets/css/main.css">
-<object data="{{site.url}}docs/_pdfs/Hicke_CV.pdf" width="800" height="1000" type="application/pdf"></object>
+iframe src="https://drive.google.com/file/d/1KH444slyEmI5ZPxcvRZk1pxczqsWNJUs/view?usp=sharing" width="100%" height="100%"></iframe>
