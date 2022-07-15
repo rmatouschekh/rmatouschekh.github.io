@@ -8,30 +8,38 @@ permalink: /projects/
 <div class="small-spacer"></div>
 <div class="project-title">Tools for Tracking Police Misconduct Data</div>
 <div class="project-content">Advised by Professor <a href="https://schasins.com">Sarah Chasins</a> and Professor <a href="https://people.eecs.berkeley.edu/~adityagp/">Aditya Parameswaran</a> @ UC Berkeley</div>
-<div class ="time">Summer 2021 – present</div>
+<div class ="time">Summer 2021 – Spring 2022</div>
 <div class="tiny-spacer"></div>
 <div class="project-content">Tools for Tracking Police Misconduct Data works on creating a database to help the <a href="https://www.nacdl.org">National Association of Criminal Defense Lawyers</a> track police officer misconduct. As part of this project, I iteratively designed MongoDB database queries to find officer misconduct cases, wrote code to output the results of those queries to a Postgres database, and created a website hosted with Flask to allow users to validate those results and then output the results to the database. I have also worked on extracting information from difficult-to-process PDFs. During the summer, I also participated in the <a href="https://plait-lab.org">PLAIT Lab</a> reading group and social events.</div>
 <div class="small-spacer"></div>
 <div class="project-title">Word Clouds in the Wild</div>
 <div class="project-content">Advised by Professor <a href="https://cs.carleton.edu/faculty/ealexander/">Eric Alexander</a> @ Carleton College</div>
-<div class ="time">Summer 2020 – present</div>
+<div class ="time">Summer 2020 – Summer 2022</div>
 <div class="tiny-spacer"></div>
-<div class="project-content">This project aims to discover how word clouds are being used with the eventual goal of designing guidelines for creating visually pleasing but effective word clouds. Along with Professor Alexander and another undergraduate researcher, I used grounded theory, a method of qualitative data analysis that involves hypothesis formation through data collection, to study word cloud usage in digital humanities academia and journalism. I also analyzed the collected data. We are currently writing up these results for publication.</div>
+<div class="project-content">This project aims to discover how word clouds are being used with the eventual goal of designing guidelines for creating visually pleasing but effective word clouds. Along with Professor Alexander and another undergraduate researcher, I used grounded theory, a method of qualitative data analysis that involves hypothesis formation through data collection, to study word cloud usage in digital humanities academia and journalism. I also analyzed the collected data. A paper describing these results is currently under submission at the <a href="https://vis4dh.dbvis.de">Vis4DH</a> worshop at IEEE Vis.</div>
 <br>
 
-<div class="project-heading">Senior Thesis Projects</div>
+<div class="project-heading">Senior Thesis Projects and Portfolios</div>
 <div class="small-spacer"></div>
-<div class="project-title">Practicum 2.0</div>
-<div class="project-content">Advised by Professor <a href="https://cs.carleton.edu/faculty/awb/">Aaron Bauer</a> @ Carleton College</div>
+<div class="project-title">Practicum 2.0: An Interactive Tool for Practicing Introductory CS Topics</div>
+<div class="project-content">Advised by Professor <a href="https://cs.carleton.edu/faculty/awb/">Aaron Bauer</a> @ Carleton College – <a href="https://awilliambauer.github.io/practicum/">Link to Project</a></div>
+<div class="project-content">Received the grade of <em>Distinction</em></div>
 <div class ="time">Winter 2022 – Spring 2022</div>
 <div class="tiny-spacer"></div>
-<div class="project-content">This will be the senior thesis project for my Computer Science major. As part of a group of CS majors, I will extend existing software called Practicum that teaches introductory computer science concepts. I will be designing and implementing new features for the software and testing the usability of those features. A more detailed description of the project can be found <a href="https://cs.carleton.edu/cs_comps/2122/practicum2/index.php">here.</a></div>
+<div class="project-content">This was be the senior thesis project for my Computer Science major. Along with four other senior CS majors, I extended existing educational CS software called Practicum to include problems on classes and objects. To do this, we changed the underlying structure of Practicum, including it's two parsers and simulators, to handle classes, designed and coded visualizations and practice problems to teach these concepts, and ran an experiment to test the effectiveness of the tool. We found that Practicum was a more effective study tool than paper worksheets, although these results were only significant for students still in Introduction to Computer Science. My focus throughout this project was designing, implementing, and integrating educational visualizations of classes and objects, although I was also involved in other aspects of the project.</div>
 <div class="small-spacer"></div>
 <div class="project-title">"Let every work weigh heavy of her worth": Examining How Women Enact Power in Shakespeare’s Comedies through Interactive Speech Pattern Visualizations</div>
 <div class="project-content">Advised by Professor <a href="https://www.carleton.edu/directory/gshuffel/">George Shuffelton</a> @ Carleton College – <a href="https://observablehq.com/@hicker/let-every-word-weigh-heavy-of-her-worth">Link to Project</a> </div>
+<div class="project-content">Received the grade of <em>Distinction</em></div>
 <div class ="time">Fall 2022 – Winter 2022</div>
 <div class="tiny-spacer"></div>
-<div class="project-content">This was my senior thesis project for the English major. I analyzed how women enact power in Shakespeare’s comedies by visualizing their speech patterns. I hand-annotated each comedy for who talks to whom, designed and coded visualizations to present the speech pattern data, and then wrote an essay analyzing the visualizations and contextualizing my work within previous literary and DH analysis of Shakespeare.</div>
+<div class="project-content">This was my senior thesis project for the English major. In it, I analyzed how women enact power in Shakespeare’s comedies by visualizing their speech patterns. I hand-annotated each Shakespearean comedy for who talks to whom, designed and coded visualizations to present the speech pattern data, and then wrote an essay analyzing the visualizations and contextualizing my work within previous literary and DH analysis of Shakespeare. The results of this work have been accepted for publication through the <a href="https://quadrama.github.io/blog/2022/03/14/comp-drama-analysis-workshop">QuaDramA Workshop</a>.</div>
+<div class="small-spacer"></div>
+<div class="project-title">Digital Arts and Humanities Minor Capstone Portfolio</div>
+<div class="project-content">Advised by Professor <a href="https://www.carleton.edu/directory/amason/">Austin Mason</a> @ Carleton College – <a href="https://hicker.dgah.sites.carleton.edu">Link to Project</a> </div>
+<div class ="time">Spring 2022</div>
+<div class="tiny-spacer"></div>
+<div class="project-content">I created this online portfolio of my digital arts and humanities experience as part of the capstone class for the minor.</div>
 <br>
 
 <div class="project-heading">Class Projects</div>
