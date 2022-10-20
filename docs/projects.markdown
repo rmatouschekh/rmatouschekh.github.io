@@ -16,7 +16,7 @@ permalink: /projects/
 <div class="project-content">Advised by Professor <a href="https://cs.carleton.edu/faculty/ealexander/">Eric Alexander</a> @ Carleton College</div>
 <div class ="time">Summer 2020 – Summer 2022</div>
 <div class="tiny-spacer"></div>
-<div class="project-content">This project aims to discover how word clouds are being used with the eventual goal of designing guidelines for creating visually pleasing but effective word clouds. Along with Professor Alexander and another undergraduate researcher, I used grounded theory, a method of qualitative data analysis that involves hypothesis formation through data collection, to study word cloud usage in digital humanities academia and journalism. I also analyzed the collected data. A paper describing these results is currently under submission at the <a href="https://vis4dh.dbvis.de">Vis4DH</a> worshop at IEEE Vis.</div>
+<div class="project-content">This project aims to discover how word clouds are being used with the eventual goal of designing guidelines for creating visually pleasing but effective word clouds. Along with Professor Alexander and another undergraduate researcher, I used grounded theory, a method of qualitative data analysis that involves hypothesis formation through data collection, to study word cloud usage in digital humanities academia and journalism. I also analyzed the collected data. A paper describing these results has been accepted for publication at the <a href="https://vis4dh.dbvis.de">Vis4DH</a> worshop at IEEE Vis.</div>
 <br>
 
 <div class="project-heading">Senior Thesis Projects</div>
