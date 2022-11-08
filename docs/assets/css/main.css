@@ -53,3 +53,15 @@ a:hover {
 .tiny-spacer {
 	height: 10px;
 }
+
+.cv {
+	position: relative;
+}
+
+.cv iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
