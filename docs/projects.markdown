@@ -6,6 +6,12 @@ permalink: /projects/
 <link rel="stylesheet" href="/assets/css/main.css">
 <div class="project-heading">Research Projects</div>
 <div class="small-spacer"></div>
+<div class="project-title">T5 meets Tybalt: author attribution in Early Modern English drama using large langauge models</div>
+<div class="project-content">Advised by Professor <a href="https://mimno.infosci.cornell.edu">David Mimno</a> @ Cornell University</div>
+<div class ="time">Winter 2023</div>
+<div class="tiny-spacer"></div>
+<div class="project-content">This project explores the ability of large language models like T5 to recognize authorial style. In particular, in this project we ask T5 to attribute 1-450 word excerpts from Early Modern drama (plays written in the 1500s and 1600s) to 28 authors. The fine-tuned model attains an accuracy score of ~34%, vastly better than randomized baselines and noticably better than logistic regression. In addition, variations in the accuracy of individual authors and plays reveals interesting information about T5's ability to analyze style and histories of disputed authorship. This work has been submitted to <a href="https://sighum.wordpress.com/events/latech-clfl-2023/">LaTeCH-CLfL 2023</a>.</div>
+<div class="small-spacer"></div>
 <div class="project-title">Tools for Tracking Police Misconduct Data</div>
 <div class="project-content">Advised by Professor <a href="https://schasins.com">Sarah Chasins</a> and Professor <a href="https://people.eecs.berkeley.edu/~adityagp/">Aditya Parameswaran</a> @ UC Berkeley</div>
 <div class ="time">Summer 2021 – Spring 2022</div>
@@ -16,7 +22,7 @@ permalink: /projects/
 <div class="project-content">Advised by Professor <a href="https://cs.carleton.edu/faculty/ealexander/">Eric Alexander</a> @ Carleton College</div>
 <div class ="time">Summer 2020 – Summer 2022</div>
 <div class="tiny-spacer"></div>
-<div class="project-content">This project aims to discover how word clouds are being used with the eventual goal of designing guidelines for creating visually pleasing but effective word clouds. Along with Professor Alexander and another undergraduate researcher, I used grounded theory, a method of qualitative data analysis that involves hypothesis formation through data collection, to study word cloud usage in digital humanities academia and journalism. I also analyzed the collected data. A paper describing these results has been accepted for publication at the <a href="https://vis4dh.dbvis.de">Vis4DH</a> worshop at IEEE Vis.</div>
+<div class="project-content">This project aims to discover how word clouds are being used with the eventual goal of designing guidelines for creating visually pleasing but effective word clouds. Along with Professor Alexander and another undergraduate researcher, I used grounded theory, a method of qualitative data analysis that involves hypothesis formation through data collection, to study word cloud usage in digital humanities academia and journalism. I also analyzed the collected data. A paper describing these results has been accepted for publication at the 2022 <a href="https://vis4dh.dbvis.de">Vis4DH</a> worshop at IEEE Vis.</div>
 <br>
 
 <div class="project-heading">Senior Thesis Projects</div>
@@ -33,14 +39,15 @@ permalink: /projects/
 <div class="project-content">Received the grade of <em>Distinction</em></div>
 <div class ="time">Fall 2022 – Winter 2022</div>
 <div class="tiny-spacer"></div>
-<div class="project-content">This was my senior thesis project for the English major. In it, I analyzed how women enact power in Shakespeare’s comedies by visualizing their speech patterns. I hand-annotated each Shakespearean comedy for who talks to whom, designed and coded visualizations to present the speech pattern data, and then wrote an essay analyzing the visualizations and contextualizing my work within previous literary and DH analysis of Shakespeare. The results of this work have been accepted for publication through the <a href="https://quadrama.github.io/blog/2022/03/14/comp-drama-analysis-workshop">QuaDramA Workshop</a>.</div>
+<div class="project-content">This was my senior thesis project for the English major. In it, I analyzed how women enact power in Shakespeare’s comedies by visualizing their speech patterns. I hand-annotated each Shakespearean comedy for who talks to whom, designed and coded visualizations to present the speech pattern data, and then wrote an essay analyzing the visualizations and contextualizing my work within previous literary and DH analysis of Shakespeare. The results of this work have been accepted for publication through the 2022 <a href="https://quadrama.github.io/blog/2022/03/14/comp-drama-analysis-workshop">Workshop on Computational Drama Analysis</a>.</div>
 <br>
 
 <div class="project-heading">Portfolios</div>
 <div class="small-spacer"></div>
 <div class="project-title">Digital Arts and Humanities Minor Capstone Portfolio</div>
-<div class="project-content">Advised by Professor <a href="https://www.carleton.edu/directory/amason/">Austin Mason</a> @ Carleton College – <a href="https://hicker.dgah.sites.carleton.edu">Link to Project</a> </div>
+<div class="project-content">Advised by Professor <a href="https://www.carleton.edu/directory/amason/">Austin Mason</a> @ Carleton College</div>
 <div class ="time">Spring 2022</div>
+<div class="project-content"><a href="https://hicker.dgah.sites.carleton.edu">Link to project</a></div>
 <div class="tiny-spacer"></div>
 <div class="project-content">I created this online portfolio of my digital arts and humanities experience as part of the capstone class for the minor.</div>
 <br>

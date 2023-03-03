@@ -27,7 +27,7 @@ permalink: /teaching/
 <div class="project-heading">Other</div>
 <div class="small-spacer"></div>
 <div class="project-title">Carleton Ballroom Dance Team</div>
-<div class ="time">Co-Captain: Summer 2020 – present, Lieutenant: Summer 2019 – Summer 2020</div>
+<div class ="time">Co-Captain: Summer 2020 – Spring 2022, Lieutenant: Summer 2019 – Summer 2020</div>
 <div class="tiny-spacer"></div>
 <div class="project-content">I work with my co-captain to organize team practices and competitions, coordinate with our coach and other instructors, recruit newcomers, and teach lessons as many as 3 times per week. We are also in charge of designing the curriculum for each term.</div>
 <div class="small-spacer"></div>
