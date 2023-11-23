@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Rebecca M. M. Hicke
+title: Rebecca Hicke
 email: rmh327@cornell.edu  
 description: Ph.D. Student in Computer Science at Cornell University
 >- # this means to ignore newlines until "baseurl:"
