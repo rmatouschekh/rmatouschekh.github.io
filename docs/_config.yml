@@ -28,7 +28,7 @@ url: "https://rmatouschekh.github.io/" # the base hostname & protocol for your s
 # github_url: "https://github.com/rmatouschekh"
 # linkedin_username: rebecca-hicke
 # linkedin_url: "https://www.linkedin.com/in/rebecca-hicke/"
-minima: {social_links: { platform: github, user_url: "https://github.com/rmatouschekh" }}
+minima: {social_links: [{ platform: github, user_url: "https://github.com/rmatouschekh" }]}
 # Build settings
 theme: minima
 markdown: kramdown
