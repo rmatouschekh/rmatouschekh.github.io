@@ -10,17 +10,17 @@ In 2022, I graduated from <a class="page-link" href="https://www.carleton.edu">C
 Please feel free to reach out to me by email if you have any questions!</p><br>
 <p><div class="project-heading">Publications</div>
 <div class="small-spacer"></div>
-<div style="font-size: 18px; font-weight: bold;">T5 meets Tybalt: Author Attribution in Early Modern English Drama Using Large Language Models</div>
+<div style="font-weight: bold;">T5 meets Tybalt: Author Attribution in Early Modern English Drama Using Large Language Models</div>
 <div><b>Rebecca M. M. Hicke</b> and David Mimno</div>
 <div><em>CHR 2023</em></div>
 <div>[<a href="https://ceur-ws.org/Vol-3558/paper2757.pdf">PDF</a>]</div>
 <div class="small-spacer"></div>
-<div style="font-size: 18px; font-weight: bold;">Word Clouds in the Wild</div>
+<div style="font-weight: bold;">Word Clouds in the Wild</div>
 <div><b>Rebecca M. M. Hicke</b>, Maanya Goenka, and Eric Alexander</div>
 <div><em>Vis4DH 2022</em></div>
 <div>[<a href="https://arxiv.org/pdf/2210.08059.pdf">PDF</a>]</div>
 <div class="small-spacer"></div>
-<div style="font-size: 18px; font-weight: bold;">‘Let every word weight heavy of her worth’: Examining How Women Enact Power in Shakespeare’s Comedies through Interactive Speech Pattern Visualizations</div>
+<div style="font-weight: bold;">‘Let every word weight heavy of her worth’: Examining How Women Enact Power in Shakespeare’s Comedies through Interactive Speech Pattern Visualizations</div>
 <div><b>Rebecca M. M. Hicke</b> and David Mimno</div>
 <div>De Gruyter's <em>Computational Drama Analysis: Reflecting Methods and Interpretations</em></div>
 <div>(In press)</div>
