@@ -27,10 +27,11 @@ url: "https://rmatouschekh.github.io/" # the base hostname & protocol for your s
 # github_username: rmatouschekh
 # linkedin_username: rebecca-hicke
 # google_scholar_username: mBqvEqMAAAAJ
-minima:
-  social_links:
-    - platform: github  # same as SVG filename.
-      user_url: "https://github.com/rmatouschekh"  # URL of profile page.
+# minima:
+#   social_links:
+#     - platform: github  # same as SVG filename.
+#       user_url: "https://github.com/rmatouschekh"  # URL of profile page.
+github_user_url: "https://github.com/rmatouschekh"
 
 # Build settings
 theme: minima
