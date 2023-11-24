@@ -24,11 +24,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Ph.D. Student in Computer Science at Cornell University
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rmatouschekh.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-# github_username: rmatouschekh
-# github_url: "https://github.com/rmatouschekh"
-# linkedin_username: rebecca-hicke
-# linkedin_url: "https://www.linkedin.com/in/rebecca-hicke/"
-minima: {social_links: [{ platform: github, user_url: "https://github.com/rmatouschekh" }]}
+github_username: rmatouschekh
+linkedin_username: rebecca-hicke
+
 # Build settings
 theme: minima
 markdown: kramdown
