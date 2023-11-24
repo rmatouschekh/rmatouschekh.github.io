@@ -26,8 +26,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rmatouschekh.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: rmatouschekh
 github_url: "https://github.com/rmatouschekh"
-# linkedin_username: rebecca-hicke
-# google_scholar_username: mBqvEqMAAAAJ
+linkedin_username: rebecca-hicke
+linkedin_url: "https://www.linkedin.com/in/rebecca-hicke/"
+google_scholar_username: mBqvEqMAAAAJ
+google_scholar_url: "https://scholar.google.com/citations?user=mBqvEqMAAAAJ"
 # minima:
 #   social_links:
 #     - platform: github  # same as SVG filename.
