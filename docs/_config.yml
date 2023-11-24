@@ -24,8 +24,14 @@ description: >- # this means to ignore newlines until "baseurl:"
   Ph.D. Student in Computer Science at Cornell University
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rmatouschekh.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: rmatouschekh
-linkedin_username: rebecca-hicke
+# github_username: rmatouschekh
+# linkedin_username: rebecca-hicke
+# google_scholar_username: 
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/rmatouschekh" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/rebecca-hicke/" }
+    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=mBqvEqMAAAAJ&hl=en&oi=ao" }
 
 # Build settings
 theme: minima
