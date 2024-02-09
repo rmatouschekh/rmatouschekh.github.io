@@ -13,6 +13,7 @@ Please feel free to reach out to me by email if you have any questions!</p><br>
 <div style="font-weight: bold;">[Lions: 1] and [Tigers: 2] and [Bears: 3], Oh My! Literary Coreference Annotation with LLMs</div>
 <div><b>Rebecca M. M. Hicke</b> and David Mimno</div>
 <div><em>LaTeCH CLfL 2024</em></div>
+<div>[<a href="https://arxiv.org/pdf/2401.17922.pdf">PDF</a>]</div>
 <div class="small-spacer"></div>
 <div style="font-weight: bold;">T5 meets Tybalt: Author Attribution in Early Modern English Drama Using Large Language Models</div>
 <div><b>Rebecca M. M. Hicke</b> and David Mimno</div>
