@@ -9,8 +9,8 @@ permalink: /teaching/
 <div class="project-title">Graduate Teaching Assistant</div>
 <div class ="time">September 2023 – present</div>
 <div class="tiny-spacer"></div>
-<div class="project-content"><a href="https://www.jeffrz.com/info3300/">INFO/CS 3300: Data Driven Web Applications</a> – <em>Fall 2023</em></div>
 <div class="project-content">CS 2110: Object-Oriented Programming and Data Structures – <em>Spring 2024</em></div>
+<div class="project-content"><a href="https://www.jeffrz.com/info3300/">INFO/CS 3300: Data Driven Web Applications</a> – <em>Fall 2023</em></div>
 <br>
 <div class="project-heading">Carleton College</div>
 <div class="small-spacer"></div>
