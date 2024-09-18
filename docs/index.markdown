@@ -13,7 +13,7 @@ Please feel free to reach out to me by email if you have any questions!</p><br>
 <div style="font-weight: bold;">Says Who? Effective Zero-Shot Annotation of Focalization</div>
 <div><em>Rebecca M. M. Hicke</em>, Yuri Bizzoni, Pascale Feldkamp, and Ross Deans Kristensen-McLachlan</div>
 <div>Preprint</div>
-<div>[<a href=https://arxiv.org/abs/2409.11390>PDF</a>]</div>
+<div>[<a href="https://arxiv.org/abs/2409.11390">PDF</a>]</div>
 <div class="small-spacer"></div>
 <div style="font-weight: bold;">[Lions: 1] and [Tigers: 2] and [Bears: 3], Oh My! Literary Coreference Annotation with LLMs</div>
 <div><em>Rebecca M. M. Hicke</em> and David Mimno</div>
