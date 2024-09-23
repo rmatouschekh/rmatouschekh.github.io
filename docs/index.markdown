@@ -15,6 +15,14 @@ Please feel free to reach out to me by email if you have any questions!</p><br>
 <div>Preprint</div>
 <div>[<a href="https://arxiv.org/abs/2409.11390">PDF</a>]</div>
 <div class="small-spacer"></div>
+<div style="font-weight: bold;">SCIENCE IS EXPLORATION: Computational Frontiers for Conceptual Metaphor Theory</div>
+<div><em>Rebecca M. M. Hicke</em> and Ross Deans Kristensen-McLachlan</div>
+<div>CHR 2024</div>
+<div class="small-spacer"></div>
+<div style="font-weight: bold;">Context is Key(NMF): Modelling Topical Information Dynamics in Chinese Diaspora Media</div>
+<div>Ross Deans Kristensen-McLachlan, <em>Rebecca M. M. Hicke</em>, Márton Kardos, and Mette Thunø</div>
+<div>CHR 2024</div>
+<div class="small-spacer"></div>
 <div style="font-weight: bold;">[Lions: 1] and [Tigers: 2] and [Bears: 3], Oh My! Literary Coreference Annotation with LLMs</div>
 <div><em>Rebecca M. M. Hicke</em> and David Mimno</div>
 <div>LaTeCH-CLfL 2024</div>
