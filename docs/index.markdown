@@ -22,6 +22,7 @@ Please feel free to reach out to me <a href="mailto:rmh327@cornell.edu">by email
 <div style="font-weight: bold;">Context is Key(NMF): Modelling Topical Information Dynamics in Chinese Diaspora Media</div>
 <div>Ross Deans Kristensen-McLachlan, <em class='author-highlight'>Rebecca M. M. Hicke</em>, Márton Kardos, and Mette Thunø</div>
 <div>CHR 2024</div>
+<div>[<a href="https://arxiv.org/pdf/2410.12791">PDF</a>]</div>
 <div class="small-spacer"></div>
 <div style="font-weight: bold;">[Lions: 1] and [Tigers: 2] and [Bears: 3], Oh My! Literary Coreference Annotation with LLMs</div>
 <div><em class='author-highlight'>Rebecca M. M. Hicke</em> and David Mimno</div>
