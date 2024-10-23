@@ -60,19 +60,20 @@ a:hover {
 
 .paper-category {
 	border-radius: 3px;
-	width: max-content; margin:5px;
-	padding: 3px;
-	font-size: 12px;
+	width: max-content;
+	margin:5px;
+	padding: 5px;
+	font-size: 10px;
 }
 
 .conference {
-	background-color: #eae1ea;
+	background-color: #ebc6eb;
 }
 
 .workshop {
-	background-color: #eadbf0;
+	background-color: #e3c1f0;
 }
 
 .preprint {
-	background-color: #dbe7f0;
+	background-color: #c2ddf0;
 }
