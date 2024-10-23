@@ -57,3 +57,21 @@ a:hover {
 .author-highlight {
 	color: #DB5461;
 }
+
+.paper-category {
+	border-radius: 3px;
+	width: max-content; margin:5px;
+	padding: 3px;
+}
+
+.conference {
+	background-color: #eae1ea;
+}
+
+.workshop {
+	background-color: #eadbf0;
+}
+
+.preprint {
+	background-color: #dbe7f0;
+}
