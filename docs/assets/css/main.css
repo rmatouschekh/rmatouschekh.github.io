@@ -20,6 +20,8 @@ a:hover {
 
 .paper-title-link {
 	color: 'black';
+	font-weight: bold;
+	text-decoration: underline;
 }
 
 .home-heading {
