@@ -12,7 +12,7 @@ permalink: /papers/
 <div style="font-weight: bold;">SCIENCE IS EXPLORATION: Computational Frontiers for Conceptual Metaphor Theory</div>
 <div><em class='author-highlight'>Rebecca M. M. Hicke</em> and Ross Deans Kristensen-McLachlan</div>
 <div>CHR (2024)<span class="paper-category conference">Conference</span></div>
-<div>[<a href="https://arxiv.org/pdf/2410.08991">PDF</a>]</div>
+<div>[<a href="https://arxiv.org/pdf/2410.08991">PDF</a>] [<a href="https://github.com/rmatouschekh/science-is-exploration">CODE</a>]</div>
 <div class="small-spacer"></div>
 <div style="font-weight: bold;">Context is Key(NMF): Modelling Topical Information Dynamics in Chinese Diaspora Media</div>
 <div>Ross Deans Kristensen-McLachlan, <em class='author-highlight'>Rebecca M. M. Hicke</em>, Márton Kardos, and Mette Thunø</div>
