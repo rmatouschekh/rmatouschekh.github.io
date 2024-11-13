@@ -19,7 +19,7 @@ a:hover {
 }
 
 .paper-title-link {
-	color: 'black';
+	color: 'black' !important;
 	font-weight: bold;
 	text-decoration: underline;
 }
