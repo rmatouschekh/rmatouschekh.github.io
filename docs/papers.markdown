@@ -37,4 +37,4 @@ permalink: /papers/
 <div style="font-weight: bold;">Word Clouds in the Wild</div>
 <div><em class='author-highlight'>Rebecca M. M. Hicke</em>, Maanya Goenka, and Eric Alexander</div>
 <div>Vis4DH (2022)<span class="paper-category workshop">Workshop</span></div>
-<div>[<a href="https://arxiv.org/pdf/2210.08059.pdf">PDF</a>]</div>
+<div style="font-weight: bold; background-color: #f2f2f2; padding: 5px;"><a href="https://arxiv.org/pdf/2210.08059.pdf">PDF</a></div>

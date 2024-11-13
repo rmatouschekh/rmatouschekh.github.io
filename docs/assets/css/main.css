@@ -18,6 +18,10 @@ a:hover {
 	text-decoration: none;
 }
 
+.paper-title-link {
+	color: 'black';
+}
+
 .home-heading {
 	font-weight: bold;
 	font-size: 20px;
@@ -61,7 +65,7 @@ a:hover {
 .paper-category {
 	border-radius: 3px;
 	width: max-content;
-	margin:5px;
+	margin: 5px;
 	padding: 5px;
 	font-size: 10px;
 }
