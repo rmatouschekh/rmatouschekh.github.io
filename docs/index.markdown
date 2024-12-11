@@ -8,14 +8,14 @@ In 2022, I graduated from Carleton College with a Bachelors of Arts in Computer 
 Please feel free to reach out to me <a href="mailto:rmh327@cornell.edu">by email</a> if you have any questions!</p><br>
 <p><div class="project-heading">News</div>
 <div class="small-spacer"></div>
-<div>🏆&nbsp;<a href="https://ceur-ws.org/Vol-3834/paper60.pdf">Our paper</a> on computationally identifying conceptual metaphors was shortlisted for the Best Short Paper Award at <a href="http://2024.computational-humanities-research.org">CHR 2024</a></div>
+<div>🏆&nbsp;&nbsp;&nbsp;<a href="https://ceur-ws.org/Vol-3834/paper60.pdf">Our paper</a> on computationally identifying conceptual metaphors was shortlisted for the Best Short Paper Award at <a href="http://2024.computational-humanities-research.org">CHR 2024</a></div>
 <div class="small-spacer"></div>
-<div>📣&nbsp;I presented <a href="https://ceur-ws.org/Vol-3834/paper60.pdf">our paper</a> on computationally identifying conceptual metaphors at <a href="http://2024.computational-humanities-research.org">CHR 2024</a> in Aarhus</div>
+<div>📣&nbsp;&nbsp;&nbsp;I presented <a href="https://ceur-ws.org/Vol-3834/paper60.pdf">our paper</a> on computationally identifying conceptual metaphors at <a href="http://2024.computational-humanities-research.org">CHR 2024</a> in Aarhus</div>
 <div class="small-spacer"></div>
-<div>📝&nbsp;A <a href="https://ceur-ws.org/Vol-3834/paper60.pdf">new paper</a> on computationally identifying conceptual metaphors was accepted at <a href="http://2024.computational-humanities-research.org">CHR 2024</a></div>
+<div>📝&nbsp;&nbsp;&nbsp;A <a href="https://ceur-ws.org/Vol-3834/paper60.pdf">new paper</a> on computationally identifying conceptual metaphors was accepted at <a href="http://2024.computational-humanities-research.org">CHR 2024</a></div>
 <div class="small-spacer"></div>
-<div>📝&nbsp;A <a href="https://ceur-ws.org/Vol-3834/paper49.pdf">new paper</a> on tracking topical trends in Chinese diaspora media was accepted at <a href="http://2024.computational-humanities-research.org">CHR 2024</a></div>
+<div>📝&nbsp;&nbsp;&nbsp;A <a href="https://ceur-ws.org/Vol-3834/paper49.pdf">new paper</a> on tracking topical trends in Chinese diaspora media was accepted at <a href="http://2024.computational-humanities-research.org">CHR 2024</a></div>
 <div class="small-spacer"></div>
-<div>🌎&nbsp;I spent the summer at the <a href="https://chc.au.dk">Center for Humanities Computing</a> at Aarhus University as a Visiting PhD Student</div>
+<div>🌎&nbsp;&nbsp;&nbsp;I spent the summer at the <a href="https://chc.au.dk">Center for Humanities Computing</a> at Aarhus University as a Visiting PhD Student</div>
 </p>
 </div>
