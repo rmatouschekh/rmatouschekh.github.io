@@ -4,6 +4,11 @@ title: Publications
 permalink: /publications/
 ---
 <link rel="stylesheet" href="/assets/css/main.css">
+<div style="font-weight: bold;"><emph>Looking for the Inner Music</emph>: Probing LLMs' Understanding of Literary Style</div>
+<div><em class='author-highlight'>Rebecca M. M. Hicke</em> and David Mimno</div>
+<div>Preprint</div>
+<div>[<a href="https://arxiv.org/pdf/2502.03647">PDF</a>]</div>
+<div class="small-spacer"></div>
 <div style="font-weight: bold;">Says Who? Effective Zero-Shot Annotation of Focalization</div>
 <div><em class='author-highlight'>Rebecca M. M. Hicke</em>, Yuri Bizzoni, Pascale Feldkamp, and Ross Deans Kristensen-McLachlan</div>
 <div>Preprint</div>

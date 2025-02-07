@@ -8,6 +8,8 @@ In 2022, I graduated from Carleton College with a Bachelors of Arts in Computer 
 Please feel free to reach out to me <a href="mailto:rmh327@cornell.edu">by email</a> if you have any questions!</p><br>
 <p><div class="project-heading">News</div>
 <div class="small-spacer"></div>
+<div>📝&nbsp;&nbsp;&nbsp;A <a href="https://arxiv.org/pdf/2502.03647">new paper</a> on understanding literary style with LLMs is available as a preprint.</div>
+<div class="small-spacer"></div>
 <div>🌎&nbsp;&nbsp;&nbsp;I will spend the summer of 2025 working as a PhD intern for the <a href="https://www.microsoft.com/en-us/research/group/ai-interaction-and-learning/">AIIL group</a> at Microsoft Research!</div>
 <div class="small-spacer"></div>
 <div>🏆&nbsp;&nbsp;&nbsp;<a href="https://ceur-ws.org/Vol-3834/paper60.pdf">Our paper</a> on computationally identifying conceptual metaphors was shortlisted for the Best Short Paper Award at <a href="http://2024.computational-humanities-research.org">CHR 2024</a></div>
