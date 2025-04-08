@@ -15,13 +15,13 @@ permalink: /publications/
 <div class="small-spacer"></div>
 <div style="font-weight: bold;"><emph>Looking for the Inner Music</emph>: Probing LLMs' Understanding of Literary Style</div>
 <div><em class='author-highlight'>Rebecca M. M. Hicke</em> and David Mimno</div>
-<div><em>Expanding the Toolkit: Large Language Models in Humanities Research</em>, CHR Journal</div>
+<div><em>Expanding the Toolkit: Large Language Models in Humanities Research</em> – CHR Journal</div>
 <div>[<a href="https://arxiv.org/pdf/2502.03647">PDF</a>]</div>
 <div class="small-spacer"></div>
 <div style="font-weight: bold;">A City of Millions: Mapping Literary Social Networks At Scale</div>
 <div>Sil Hamilton, <em class='author-highlight'>Rebecca M. M. Hicke</em>, David Mimno, and Matthew Wilkens</div>
 <div>NLP4DH 2025</div>
-<div>[<a href="https://arxiv.org/pdf/2502.19590">PDF</a>]</div>
+<div>[<a href="https://arxiv.org/pdf/2502.19590">PDF</a>] [<a href="https://github.com/srhm-ca/pgn">DATA</a>]</div>
 <div class="small-spacer"></div>
 <div style="font-weight: bold;">SCIENCE IS EXPLORATION: Computational Frontiers for Conceptual Metaphor Theory</div>
 <div><em>Finalist for Best Short Paper Award</em></div>
