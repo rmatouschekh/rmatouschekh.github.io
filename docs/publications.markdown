@@ -6,7 +6,7 @@ permalink: /publications/
 <link rel="stylesheet" href="/assets/css/main.css">
 <div style="font-weight: bold;">The Zero Body Problem: Probing LLM Use of Sensory Language</div>
 <div><em class='author-highlight'>Rebecca M. M. Hicke</em>, Sil Hamilton, and David Mimno</div>
-<div>Preprint</div>
+<div>COLM 2025</div>
 <div>[<a href="https://arxiv.org/pdf/2504.06393">PDF</a>]</div>
 <div class="small-spacer"></div>
 <div style="font-weight: bold;">Says Who? Effective Zero-Shot Annotation of Focalization</div>
