@@ -10,7 +10,7 @@ permalink: /teaching/
 <div class ="time">September 2023 – present</div>
 <div class="tiny-spacer"></div>
 <div class="project-content">CS/INFO 4300: Language and Information – <em>Spring 2025</em></div>
-<div style="margin-left: 40px;"><em>Received award for TAing contributions</em></div>
+<div style="margin-left: 60px;"><em>Received award for TAing contributions</em></div>
 <div class="project-content">CS 2110: Object-Oriented Programming and Data Structures – <em>Spring 2024</em></div>
 <div class="project-content"><a href="https://www.jeffrz.com/info3300/">INFO/CS 3300: Data Driven Web Applications</a> – <em>Fall 2023</em></div>
 <br>
