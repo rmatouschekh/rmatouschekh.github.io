@@ -25,13 +25,13 @@ permalink: /teaching/
 <div class ="time">March 2020 – May 2022</div>
 <div class="tiny-spacer"></div>
 <div class="project-content">CS 201: Data Structures – <em>Spring 2022</em>, <em>Winter 2022</em>, <em>Fall 2021</em>, <em>Spring 2021</em></div>
-<div class="project-content">CS 202: Mathematics of Computer Science – <em>Winter 2021</em>, <em>Fall 2021</em></div>
+<div class="project-content">CS 202: Mathematics of Computer Science – <em>Winter 2021</em>, <em>Fall 2021</em></div>
 <div class="project-content">CS 111: Introduction to Computer Science – <em>Spring 2020</em></div>
 <br>
 <div class="project-heading">University of Texas at Austin</div>
 <div class="small-spacer"></div>
 <div class="project-title">Residential and Program Assistant</div>
-<div class ="time">2018-2020</div>
+<div class ="time">2018 – 2020</div>
 <div class="tiny-spacer"></div>
 <div class="project-content"><a href="https://www.cs.utexas.edu/outreach/academies/robotics">Academy for Robotics</a> – <em>Summer 2020</em>, <em>Summer 2019</em></div>
 <div class="project-content">Academy for Cybersecurity – <em>Summer 2019</em></div>
