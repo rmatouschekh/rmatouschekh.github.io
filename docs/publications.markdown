@@ -6,8 +6,13 @@ permalink: /publications/
 <link rel="stylesheet" href="/assets/css/main.css">
 <div style="font-weight: bold;">Are You There God? Lightweight Narrative Annotation of Christian Fiction with LMs</div>
 <div><em class='author-highlight'>Rebecca M. M. Hicke</em>, Brian Haggard, Mia Ferrante, Rayhan Khanna, and David Mimno</div>
-<div>Preprint</div>
+<div>CHR 2025</div>
 <div>[<a href="https://arxiv.org/pdf/2507.19756">PDF</a>]</div>
+<div class="small-spacer"></div>
+<div style="font-weight: bold;">Says Who? Effective Zero-Shot Annotation of Focalization</div>
+<div><em class='author-highlight'>Rebecca M. M. Hicke</em>, Yuri Bizzoni, Pascale Feldkamp, and Ross Deans Kristensen-McLachlan</div>
+<div>CHR 2025</div>
+<div>[<a href="https://arxiv.org/pdf/2409.11390">PDF</a>]</div>
 <div class="small-spacer"></div>
 <div style="font-weight: bold;">The Zero Body Problem: Probing LLM Use of Sensory Language</div>
 <div><em class='author-highlight'>Rebecca M. M. Hicke</em>, Sil Hamilton, and David Mimno</div>
@@ -18,11 +23,6 @@ permalink: /publications/
 <div>Sil Hamilton, <em class='author-highlight'>Rebecca M. M. Hicke</em>, Matthew Wilkens, and David Mimno</div>
 <div>Preprint</div>
 <div>[<a href="https://arxiv.org/pdf/2505.14925?">PDF</a>] [<a href="https://github.com/srhm-ca/tldm-benchmark">CODE</a>]</div>
-<div class="small-spacer"></div>
-<div style="font-weight: bold;">Says Who? Effective Zero-Shot Annotation of Focalization</div>
-<div><em class='author-highlight'>Rebecca M. M. Hicke</em>, Yuri Bizzoni, Pascale Feldkamp, and Ross Deans Kristensen-McLachlan</div>
-<div>Preprint</div>
-<div>[<a href="https://arxiv.org/pdf/2409.11390">PDF</a>]</div>
 <div class="small-spacer"></div>
 <div style="font-weight: bold;"><emph>Looking for the Inner Music</emph>: Probing LLMs' Understanding of Literary Style</div>
 <div><em class='author-highlight'>Rebecca M. M. Hicke</em> and David Mimno</div>
