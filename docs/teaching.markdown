@@ -6,8 +6,7 @@ permalink: /teaching/
 <link rel="stylesheet" href="/assets/css/main.css">
 <div class="project-heading">Graduate Teaching Assistant</div>
 <div class="tiny-spacer"></div>
-<div class="project-title">Cornell University</div>
-<div class ="time">September 2023 – present</div>
+<div><b>Cornell University</b>, <em>September 2023 – present</em></div>
 <div class="tinier-spacer"></div>
 <div class="project-content">CS/INFO 4300: Language and Information – <em>Spring 2025</em></div>
 <div style="margin-left: 60px;"><em>Received award for TAing contributions</em></div>
