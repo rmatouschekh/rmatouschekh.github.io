@@ -60,6 +60,10 @@ a:hover {
 	height: 10px;
 }
 
+.tinier-spacer {
+	height: 5px;
+}
+
 .author-highlight {
 	color: #DB5461;
 }
