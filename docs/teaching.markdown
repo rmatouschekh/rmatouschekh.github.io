@@ -20,6 +20,7 @@ permalink: /teaching/
 <div class="tinier-spacer"></div>
 <div><b>NLP</b>, Carleton College, <em>October 2024</em></div>
 <div class="project-content">taught by <a href="https://cs.carleton.edu/faculty/ealexander/">Eric Alexander</a></div>
+<div class="tinier-spacer"></div>
 <div><b>How LLMs Work, their Potential, and Limitations</b>, Cornell University, <em>October 2024</em></div>
 <div class="project-content">taught by <a href="https://mimno.infosci.cornell.edu">David Mimno</a></div>
 <div class="tinier-spacer"></div>
