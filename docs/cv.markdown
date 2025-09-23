@@ -1,5 +1,6 @@
 ---
 layout: page
+title: CV
 permalink: /cv/
 ---
 <link rel="stylesheet" href="/assets/css/main.css">
