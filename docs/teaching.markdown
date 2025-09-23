@@ -16,8 +16,14 @@ permalink: /teaching/
 <div class="project-heading">Guest Lecturer</div>
 <div class="tiny-spacer"></div>
 <div><b>NLP for Cultural Analytics</b>, University of Copenhagen, <em>September 2025</em></div>
+<div class="project-content">taught by <a href="https://maria-antoniak.github.io">Maria Antoniak</a></div>
 <div class="tinier-spacer"></div>
-<div class="project-content">taught by <em><a href="https://maria-antoniak.github.io">Maria Antoniak</a></em></div>
+<div><b>NLP</b>, Carleton College, <em>October 2024</em></div>
+<div class="project-content">taught by <a href="https://cs.carleton.edu/faculty/ealexander/">Eric Alexander</a></div>
+<div><b>How LLMs Work, their Potential, and Limitations</b>, Cornell University, <em>October 2024</em></div>
+<div class="project-content">taught by <a href="https://mimno.infosci.cornell.edu">David Mimno</a></div>
+<div class="tinier-spacer"></div>
+
 <br>
 <div class="project-heading">Undergraduate Teaching Assistant</div>
 <div class="tiny-spacer"></div>
