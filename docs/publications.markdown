@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Publications
 permalink: /publications/
 ---
 <link rel="stylesheet" href="/assets/css/main.css">

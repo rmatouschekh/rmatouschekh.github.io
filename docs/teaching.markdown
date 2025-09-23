@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Teaching
 permalink: /teaching/
 ---
 <link rel="stylesheet" href="/assets/css/main.css">
