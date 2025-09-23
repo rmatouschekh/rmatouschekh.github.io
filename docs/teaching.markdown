@@ -15,10 +15,9 @@ permalink: /teaching/
 <br>
 <div class="project-heading">Guest Lecturer</div>
 <div class="tiny-spacer"></div>
-<div><b>University of Copenhagen</b>, <em>September 2025</em></div>
+<div><b>NLP for Cultural Analytics</b>, University of Copenhagen, <em>September 2025</em></div>
 <div class="tinier-spacer"></div>
-<div class="project-content">NLP for Cultural Analytics</div>
-<div style="margin-left: 60px;">Taught by <em><a href="https://maria-antoniak.github.io">Maria Antoniak</a></em></div>
+<div class="project-content">taught by <em><a href="https://maria-antoniak.github.io">Maria Antoniak</a></em></div>
 <br>
 <div class="project-heading">Undergraduate Teaching Assistant</div>
 <div class="tiny-spacer"></div>
