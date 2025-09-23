@@ -14,6 +14,14 @@ permalink: /teaching/
 <div class="project-content"><a href="https://www.cs.cornell.edu/courses/cs2110/2024sp/">CS 2110: Object-Oriented Programming and Data Structures</a> – <em>Spring 2024</em></div>
 <div class="project-content"><a href="https://www.jeffrz.com/info3300/">CS/INFO 3300: Data Driven Web Applications</a> – <em>Fall 2023</em></div>
 <br>
+<div class="project-heading">Guest Lecturer</div>
+<div class="tiny-spacer"></div>
+<div class="project-title">University of Copenhagen</div>
+<div class ="time">September 2025</div>
+<div class="tiny-spacer"></div>
+<div class="project-content">NLP for Cultural Analytics</div>
+<div style="margin-left: 60px;">Taught by <em><a href="https://maria-antoniak.github.io">Maria Antoniak</a></em></div>
+<br>
 <div class="project-heading">Undergraduate Teaching Assistant</div>
 <div class="tiny-spacer"></div>
 <div class="project-title">Carleton College</div>
