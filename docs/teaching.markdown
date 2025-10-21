@@ -15,7 +15,7 @@ permalink: /teaching/
 <br>
 <div class="project-heading">Guest Lecturer</div>
 <div class="tiny-spacer"></div>
-<div><b>NLP for Cultural Analytics</b>, University of Copenhagen, <em>September 2025</em></div>
+<div><b>NLP for Cultural Analytics</b>, University of Colorado Boulder, <em>September 2025</em></div>
 <div class="project-content">taught by <a href="https://maria-antoniak.github.io">Maria Antoniak</a></div>
 <div class="tinier-spacer"></div>
 <div><b>NLP</b>, Carleton College, <em>October 2024</em></div>
