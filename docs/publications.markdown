@@ -4,6 +4,11 @@ title: Publications
 permalink: /publications/
 ---
 <link rel="stylesheet" href="/assets/css/main.css">
+<div style="font-weight: bold;">Too Long, Didn't Model: Decomposing LLM Long-Context Understanding With Novels</div>
+<div>Sil Hamilton, <em class='author-highlight'>Rebecca M. M. Hicke</em>, Mia Ferrante, Matthew Wilkens, and David Mimno</div>
+<div>LaTeCH-CLfL 2026</div>
+<div>[<a href="https://arxiv.org/pdf/2505.14925?">PDF</a>] [<a href="https://github.com/srhm-ca/tldm-benchmark">CODE</a>]</div>
+<div class="small-spacer"></div>
 <div style="font-weight: bold;">Are You There God? Lightweight Narrative Annotation of Christian Fiction with LMs</div>
 <div><em class='author-highlight'>Rebecca M. M. Hicke</em>, Brian Haggard, Mia Ferrante, Rayhan Khanna, and David Mimno</div>
 <div>CHR 2025</div>
@@ -18,11 +23,6 @@ permalink: /publications/
 <div><em class='author-highlight'>Rebecca M. M. Hicke</em>, Sil Hamilton, and David Mimno</div>
 <div>COLM 2025</div>
 <div>[<a href="https://arxiv.org/pdf/2504.06393">PDF</a>] [<a href="https://github.com/srhm-ca/sensorylanguage">DATA</a>]</div>
-<div class="small-spacer"></div>
-<div style="font-weight: bold;">Too Long, Didn't Model: Decomposing LLM Long-Context Understanding With Novels</div>
-<div>Sil Hamilton, <em class='author-highlight'>Rebecca M. M. Hicke</em>, Matthew Wilkens, and David Mimno</div>
-<div>Preprint</div>
-<div>[<a href="https://arxiv.org/pdf/2505.14925?">PDF</a>] [<a href="https://github.com/srhm-ca/tldm-benchmark">CODE</a>]</div>
 <div class="small-spacer"></div>
 <div style="font-weight: bold;"><emph>Looking for the Inner Music</emph>: Probing LLMs' Understanding of Literary Style</div>
 <div><em class='author-highlight'>Rebecca M. M. Hicke</em> and David Mimno</div>
