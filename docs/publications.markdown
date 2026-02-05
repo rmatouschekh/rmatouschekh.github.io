@@ -53,7 +53,7 @@ permalink: /publications/
 <div style="font-weight: bold;">T5 meets Tybalt: Author Attribution in Early Modern English Drama Using Large Language Models</div>
 <div><em class='author-highlight'>Rebecca M. M. Hicke</em> and David Mimno</div>
 <div>CHR 2023</div>
-<div>[<a href="https://ceur-ws.org/Vol-3558/paper2757.pdf">PDF</a>]</div>
+<div>[<a href="https://ceur-ws.org/Vol-3558/paper2757.pdf">PDF</a>] [<a href="https://github.com/rmatouschekh/t5-meets-tybalt">DATA</a>]</div>
 <div class="small-spacer"></div>
 <div style="font-weight: bold;">'Let every word weight heavy of her worth': Examining How Women Enact Power in Shakespeare's Comedies through Interactive Speech Pattern Visualizations</div>
 <div><em class='author-highlight'>Rebecca M. M. Hicke</em> and David Mimno</div>
