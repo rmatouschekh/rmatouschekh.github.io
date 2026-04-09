@@ -4,6 +4,11 @@ title: Publications
 permalink: /publications/
 ---
 <link rel="stylesheet" href="/assets/css/main.css">
+<div style="font-weight: bold;">Attention Flows: Tracing LLM Conceptual Engagement via Story Summaries</div>
+<div>Sil Hamilton, <em class='author-highlight'>Rebecca M. M. Hicke</em>, Sil Hamilton, David Mimno, and Ross Deans Kristensen-McLachlan</div>
+<div>Preprint</div>
+<div>[<a href="https://arxiv.org/pdf/2604.06416">PDF</a>] [<a href="https://github.com/c2-lab/att-flows/">DATA</a>]</div>
+<div class="small-spacer"></div>
 <div style="font-weight: bold;">Too Long, Didn't Model: Decomposing LLM Long-Context Understanding With Novels</div>
 <div>Sil Hamilton, <em class='author-highlight'>Rebecca M. M. Hicke</em>, Mia Ferrante, Matthew Wilkens, and David Mimno</div>
 <div>LaTeCH-CLfL 2026</div>

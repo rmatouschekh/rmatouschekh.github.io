@@ -8,6 +8,10 @@ In 2022, I graduated from Carleton College with a Bachelors of Arts in Computer 
 Please feel free to reach out to me <a href="mailto:rmh327@cornell.edu">by email</a> if you have any questions!</p><br>
 <p><div class="project-heading">News</div>
 <div class="small-spacer"></div>
+<div>📝&nbsp;&nbsp;&nbsp;Our paper on <a href="https://arxiv.org/pdf/2604.06416">using story summaries to assess LM conceptual attention</a> was released as a preprint.</div>
+<div class="small-spacer"></div>
+<div>🍎&nbsp;&nbsp;&nbsp;I will spend the summer of 2026 as lead instructor for INFO 1100: Introduction to Programming at Cornell.</div>
+<div class="small-spacer"></div>
 <div>📝&nbsp;&nbsp;&nbsp;Our paper on <a href="https://arxiv.org/pdf/2505.14925">benchmarks for long-context understanding</a> was accepted at <a href="https://sighum.wordpress.com/events/sighum-latech-clfl-2026/">LaTeCH-CLfL 2026</a>.</div>
 <div class="small-spacer"></div>
 <div>📝&nbsp;&nbsp;&nbsp;Two papers on <a href="https://arxiv.org/pdf/2409.11390">focalization analysis at scale</a> and <a href="https://arxiv.org/pdf/2507.19756">automated narrative analysis of Christian Fiction</a> were accepted at <a href="https://2025.computational-humanities-research.org">CHR 2025</a>.</div>
@@ -15,9 +19,5 @@ Please feel free to reach out to me <a href="mailto:rmh327@cornell.edu">by email
 <div>📝&nbsp;&nbsp;&nbsp;Our <a href="https://arxiv.org/pdf/2504.06393">paper</a> on sensory language usage in LLMs was accepted at <a href="https://colmweb.org">COLM 2025</a>.</div>
 <div class="small-spacer"></div>
 <div>🌎&nbsp;&nbsp;&nbsp;I spent the summer of 2025 as a Research Intern intern for the <a href="https://www.microsoft.com/en-us/research/group/ai-interaction-and-learning/">AIIL group</a> at Microsoft Research!</div>
-<div class="small-spacer"></div>
-<div>📝&nbsp;&nbsp;&nbsp;A <a href="https://arxiv.org/pdf/2502.03647">new paper</a> on understanding literary style with LLMs was accepted to the <em>Expanding the Toolkit: Large Language Models in Humanities Research</em> special issue of the <a href="https://www.google.com/search?client=safari&rls=en&q=chr+journal&ie=UTF-8&oe=UTF-8">CHR journal</a>.</div>
-<div class="small-spacer"></div>
-<div>📝&nbsp;&nbsp;&nbsp;A <a href="https://arxiv.org/pdf/2502.19590">new paper</a> introducing a corpus of ~70,000 literary social networks was accepted at <a href="https://www.nlp4dh.com/nlp4dh-2025">NLP4DH 2025</a>.</div>
 </p>
 </div>
