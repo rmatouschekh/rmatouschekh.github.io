@@ -4,6 +4,12 @@ title: Teaching
 permalink: /teaching/
 ---
 <link rel="stylesheet" href="/assets/css/main.css">
+<div class="project-heading">Lead Instructor</div>
+<div class="tiny-spacer"></div>
+<div><b>Cornell University</b>, <em>June 2026 – August 2026</em></div>
+<div class="tinier-spacer"></div>
+<div class="project-content">INFO 1100: Introduction to Programming – <em>Summer 2026</em></div>
+<br>
 <div class="project-heading">Graduate Teaching Assistant</div>
 <div class="tiny-spacer"></div>
 <div><b>Cornell University</b>, <em>September 2023 – present</em></div>
@@ -24,7 +30,6 @@ permalink: /teaching/
 <div><b>How LLMs Work, their Potential, and Limitations</b>, Cornell University, <em>October 2024</em></div>
 <div class="project-content">taught by <a href="https://mimno.infosci.cornell.edu">David Mimno</a></div>
 <div class="tinier-spacer"></div>
-
 <br>
 <div class="project-heading">Undergraduate Teaching Assistant</div>
 <div class="tiny-spacer"></div>
