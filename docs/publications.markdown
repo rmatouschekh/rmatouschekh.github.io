@@ -4,6 +4,11 @@ title: Publications
 permalink: /publications/
 ---
 <link rel="stylesheet" href="/assets/css/main.css">
+<div style="font-weight: bold;">Adopt ≠ Adapt: Longitudinal Analyses of LLM Conversations in the Wild</div>
+<div><em class='author-highlight'>Rebecca M. M. Hicke</em> and Kiran Tomlinson</div>
+<div>Preprint</div>
+<div>[<a href="https://arxiv.org/pdf/2605.29018">PDF</a>]</div>
+<div class="small-spacer"></div>
 <div style="font-weight: bold;">Attention Flows: Tracing LLM Conceptual Engagement via Story Summaries</div>
 <div>Sil Hamilton, <em class='author-highlight'>Rebecca M. M. Hicke</em>, Sil Hamilton, David Mimno, and Ross Deans Kristensen-McLachlan</div>
 <div>Preprint</div>

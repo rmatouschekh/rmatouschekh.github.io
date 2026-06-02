@@ -8,9 +8,11 @@ In 2022, I graduated from Carleton College with a Bachelors of Arts in Computer 
 Please feel free to reach out to me <a href="mailto:rmh327@cornell.edu">by email</a> if you have any questions!</p><br>
 <p><div class="project-heading">News</div>
 <div class="small-spacer"></div>
-<div>📝&nbsp;&nbsp;&nbsp;Our paper on <a href="https://arxiv.org/pdf/2604.06416">using story summaries to assess LM conceptual attention</a> was released as a preprint.</div>
-<div class="small-spacer"></div>
 <div>🍎&nbsp;&nbsp;&nbsp;I will spend the summer of 2026 as lead instructor for INFO 1100: Introduction to Programming at Cornell.</div>
+<div class="small-spacer"></div>
+<div>📝&nbsp;&nbsp;&nbsp;The work I did at Microsoft Research on the trajectories of LLM users is now available <a href="https://arxiv.org/pdf/2604.06416">as a preprint</a>.</div>
+<div class="small-spacer"></div>
+<div>📝&nbsp;&nbsp;&nbsp;Our paper on <a href="https://arxiv.org/pdf/2604.06416">using story summaries to assess LM conceptual attention</a> was released as a preprint.</div>
 <div class="small-spacer"></div>
 <div>📝&nbsp;&nbsp;&nbsp;Our paper on <a href="https://arxiv.org/pdf/2505.14925">benchmarks for long-context understanding</a> was accepted at <a href="https://sighum.wordpress.com/events/sighum-latech-clfl-2026/">LaTeCH-CLfL 2026</a>.</div>
 <div class="small-spacer"></div>
