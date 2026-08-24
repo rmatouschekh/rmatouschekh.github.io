@@ -9,7 +9,7 @@ permalink: /teaching/
 <div><b>Cornell University</b>, <em>June 2026 – August 2026</em></div>
 <div class="tinier-spacer"></div>
 <div class="project-content">INFO 1100: Introduction to Programming – <em>Summer 2026</em></div>
-<div style="margin-left: 60px;"><a style="color:#DB5461;" href="https://github.com/rmatouschekh/info1100-su26-materials/">Materials are available on Github</a></div>
+<div style="margin-left: 60px;"><a href="https://github.com/rmatouschekh/info1100-su26-materials/">Materials are available on Github</a></div>
 <br>
 <div class="teaching-heading">Graduate Teaching Assistant</div>
 <div class="tiny-spacer"></div>
