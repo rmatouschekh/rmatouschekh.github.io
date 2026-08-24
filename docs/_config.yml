@@ -27,6 +27,11 @@ url: "https://rmatouschekh.github.io/" # the base hostname & protocol for your s
 github_username: rmatouschekh
 linkedin_username: rebecca-hicke
 
+header_pages:
+  - cv.markdown
+  - publications.markdown
+  - teaching.markdown
+
 # Build settings
 theme: minima
 markdown: kramdown
