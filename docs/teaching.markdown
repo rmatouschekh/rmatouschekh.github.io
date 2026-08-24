@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 <link rel="stylesheet" href="/assets/css/main.css">
-<div class="project-heading">Lead Instructor</div>
+<div class="project-heading">Instructor of Record</div>
 <div class="tiny-spacer"></div>
 <div><b>Cornell University</b>, <em>June 2026 – August 2026</em></div>
 <div class="tinier-spacer"></div>
