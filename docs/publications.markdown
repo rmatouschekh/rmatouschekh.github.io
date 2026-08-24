@@ -6,13 +6,18 @@ permalink: /publications/
 <link rel="stylesheet" href="/assets/css/main.css">
 <div style="font-weight: bold;">Adopt ≠ Adapt: Longitudinal Analyses of LLM Conversations in the Wild</div>
 <div><em class='author-highlight'>Rebecca M. M. Hicke</em> and Kiran Tomlinson</div>
-<div>Preprint</div>
-<div>[<a href="https://arxiv.org/pdf/2605.29018">PDF</a>]</div>
+<div>EMNLP 2026</div>
+<div>[<a href="https://arxiv.org/pdf/2605.29018">PDF</a>] [<a href="https://github.com/microsoft/adopt-adapt-wildchat">DATA</a>]</div>
 <div class="small-spacer"></div>
-<div style="font-weight: bold;">Attention Flows: Tracing LLM Conceptual Engagement via Story Summaries</div>
+<div style="font-weight: bold;">The Plot Thins: Uniformity and Linearity in Literary Summaries</div>
 <div>Sil Hamilton, <em class='author-highlight'>Rebecca M. M. Hicke</em>, Sil Hamilton, David Mimno, and Ross Deans Kristensen-McLachlan</div>
 <div>Preprint</div>
-<div>[<a href="https://arxiv.org/pdf/2604.06416">PDF</a>] [<a href="https://github.com/c2-lab/att-flows/">DATA</a>]</div>
+<div>[<a href="https://arxiv.org/pdf/2608.17218">PDF</a>] [<a href="https://anonymous.4open.science/r/sat-32BE/README.md">DATA</a>]</div>
+<div class="small-spacer"></div>
+<div style="font-weight: bold;">Judging a Cover by its Book</div>
+<div>Axel Bax, Sanghoon Oh, <em class='author-highlight'>Rebecca M. M. Hicke</em>, Matthew Wilkens, and David Mimno</div>
+<div>Preprint</div>
+<!-- <div>[<a href="https://arxiv.org/pdf/2608.17218">PDF</a>] [<a href="https://anonymous.4open.science/r/sat-32BE/README.md">DATA</a>]</div> -->
 <div class="small-spacer"></div>
 <div style="font-weight: bold;">Too Long, Didn't Model: Decomposing LLM Long-Context Understanding With Novels</div>
 <div>Sil Hamilton, <em class='author-highlight'>Rebecca M. M. Hicke</em>, Mia Ferrante, Matthew Wilkens, and David Mimno</div>
