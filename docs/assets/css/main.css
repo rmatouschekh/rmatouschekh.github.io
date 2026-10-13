@@ -70,7 +70,12 @@ a:hover {
 }
 
 .author-highlight {
-	color: #DB5461;
+	color: #CA2E55;
+}
+
+.field-highlight {
+	color: #e9672f;
+	font-weight: bold;
 }
 
 .paper-category {
